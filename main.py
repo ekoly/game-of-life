@@ -3,8 +3,8 @@ import time
 
 pygame.init()
 
-WIDTH = 111
-HEIGHT = 111
+WIDTH = 100
+HEIGHT = 100
 CELL = 10
 RIGHT_MARGIN = 200
 MENU_ITEM_HEIGHT = 50
